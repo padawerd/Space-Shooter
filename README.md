@@ -1,1 +1,1 @@
-https://padawerd.github.io/Space-Shooters/
+[Play](https://padawerd.github.io/Space-Shooter/)
